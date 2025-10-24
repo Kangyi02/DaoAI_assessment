@@ -1,5 +1,6 @@
 # To run the program
 make
+
 ./query_loader_extended --query query_extended.json --output results.txt
 
 # Output
