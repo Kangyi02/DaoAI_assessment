@@ -18,7 +18,7 @@ ALTER USER postgres WITH SUPERUSER;
 
 # Output
 # use data0
-![Program Output](solution%201/solution1_data0.png)
+![Program Output](solution1_data0.png)
 
 # use data1
-![Program Output](solution%201/solution1_data1.png)
+![Program Output](solution1_data1.png)
